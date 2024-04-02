@@ -16,7 +16,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 ## Learn Laravel With Vite ReactJs
 
 Create a new repository
-- git init
+1. git init
 - git add [filename] || -A
 - git status
 - git commit -m "Initial commit"

@@ -15,16 +15,49 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 ## Learn Laravel With Vite ReactJs
 
-Create a new repository
-1. git init
-- git add [filename] || -A
-- git status
-- git commit -m "Initial commit"
-- git remote add origin remote_url_name
-- git push origin master
-- git pull origin master
 
+composer create-project laravel/laravel example-app
+cd example-app
+php artisan serve
 
+Php Artisan Make List
+1. php artisan make:cast  
+2. php artisan make:channel  
+3. php artisan make:command  
+4. php artisan make:component  
+5. php artisan make:controller  
+6. php artisan make:event  
+7. php artisan make:exception  
+8. php artisan make:factory  
+9. php artisan make:job  
+10. php artisan make:listener  
+11. php artisan make:mail  
+12. php artisan make:middleware  
+13. php artisan make:migration  
+14. php artisan make:model  
+15. php artisan make:notification  
+16. php artisan make:observer  
+17. php artisan make:policy  
+18. php artisan make:provider  
+19. php artisan make:request  
+20. php artisan make:resource  
+21. php artisan make:rule  
+22. php artisan make:scope  
+23. php artisan make:seeder  
+24. php artisan make:test  
+25. php artisan make:view 
+
+Migrate——————
+php artisan migrate
+php artisan migrate:refresh
+php artisan migrate:status
+migrate  
+migrate:fresh  
+migrate:install  
+migrate:refresh  
+migrate:reset  
+migrate:rollback  
+migrate:status  
 
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).

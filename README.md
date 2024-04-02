@@ -47,7 +47,8 @@ Php Artisan Make List
 24. php artisan make:test  
 25. php artisan make:view 
 
-Migrate——————
+Migrate
+
 php artisan migrate
 php artisan migrate:refresh
 php artisan migrate:status

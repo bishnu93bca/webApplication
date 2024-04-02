@@ -16,13 +16,13 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 ## Learn Laravel With Vite ReactJs
 
 Create a new repository
-	1. git init
-	2. git add [filename] || -A
-	3. git status
-	4. git commit -m "Initial commit"
-	5. git remote add origin remote_url_name
-	6. git push origin master
-	7. git pull origin master
+- git init
+- git add [filename] || -A
+- git status
+- git commit -m "Initial commit"
+- git remote add origin remote_url_name
+- git push origin master
+- git pull origin master
 
 
 

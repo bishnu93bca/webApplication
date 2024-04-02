@@ -15,6 +15,17 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 ## Learn Laravel With Vite ReactJs
 
+Create a new repository
+	git clone https://gitlab.com/bishnuray/demo.git
+	cd demo
+	touch README.md
+	git add README.md
+	git commit -m "add README"
+	git push -u origin master
+
+
+
+
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.

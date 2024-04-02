@@ -47,7 +47,7 @@ Php Artisan Make List
 24. php artisan make:test  
 25. php artisan make:view 
 
-Migrate
+## Migrate
 
 php artisan migrate
 php artisan migrate:refresh
@@ -60,6 +60,26 @@ migrate:reset
 migrate:rollback  
 migrate:status  
 
+## React ——————
+
+npm install
+npm run dev
+npm run start
+npm run build
+
+
+## Package List
+
+npm install -D tailwindcss                     
+npx tailwindcss init
+npm install -D tailwindcss postcss autoprefixer
+npm install @heroicons/react
+npm install react-router-dom
+npm install @tailwindcss/forms
+npm install @tailwindcss/ui
+npm install @tailwindcss/headlessui
+npm install @headlessui/react
+npm install -S axios
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
